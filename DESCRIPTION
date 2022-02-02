@@ -14,3 +14,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Imports: 
     magick
+URL: https://github.com/djnavarro/hexify
+BugReports: https://github.com/djnavarro/hexify/issues
