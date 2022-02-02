@@ -1,0 +1,16 @@
+Package: hexify
+Title: Create Hex Stickers
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Danielle",
+           family = "Navarro",
+           role = c("aut", "cre"),
+           email = "djnavarro@protonmail.com",
+           comment = c(ORCID = "0000-0001-7648-6578"))
+Description: Allows the user to create hex stickers from images.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    magick
